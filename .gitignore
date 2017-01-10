@@ -3,6 +3,7 @@
 /etc/
 /lib/
 /packages/
+/home/
 /sbin/
 /srv/
 /tmp/
