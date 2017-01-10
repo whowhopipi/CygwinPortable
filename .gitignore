@@ -7,5 +7,7 @@
 /srv/
 /tmp/
 /var/
+/proc/
+/cygdrive/
 /d
 /e
